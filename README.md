@@ -1,4 +1,4 @@
-# Neuronal Cell Type Classification Project
+# BIO-482 Miniproject - Neuronal Cell Type Classification
 
 Neurons play a crucial role in cognitive function, and understanding and categorizing the diversity of different cell types are essential for comprehending key aspects of brain function. 
 This project aims to develop a robust classifier for neuronal cell types, enhancing our ability to characterize and differentiate various neurons. 
